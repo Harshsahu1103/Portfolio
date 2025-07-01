@@ -21,10 +21,7 @@ function App() {
     <Project />
     <Contact />
     <Footer />
-
- {/* <h1 className="bg-black text-white">
-        Hello world!
-      </h1> */}
+     
     </>
     
   )
